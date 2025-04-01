@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Founder of dvsTeam<br>🔍 Passionate about technology, cybersecurity, and ethical hacking  <br>🛠️ Always learning and experimenting</p>
+<p align="left">🔍 Passionate about technology, cybersecurity, and ethical hacking  <br>🛠️ Always learning and experimenting</p>
 
 ###
 
